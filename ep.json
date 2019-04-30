@@ -1,0 +1,14 @@
+{
+  "parts": [
+    {
+      "name": "main",
+      "client_hooks": {
+        "aceEditorCSS": "ep_recent_changes/static/js/index",
+        "lineChanged": "ep_recent_changes/static/js/index"
+      },
+      "hooks": {
+        "eejsBlock_mySettings.dropdowns":"ep_recent_changes/index:eejsBlock_mySettings_dropdowns"
+      }
+    }
+  ]
+}

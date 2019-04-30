@@ -1,0 +1,17 @@
+{
+  "description": "Show lines where recent changes have occured in etherpad lite.",
+  "name": "ep_recent_changes",
+  "version": "0.0.1",
+  "author": "amfl <amfl@none.none>",
+  "contributors": [],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/amfl/ep_recent_changes",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amfl/ep_recent_changes.git"
+  }
+}
